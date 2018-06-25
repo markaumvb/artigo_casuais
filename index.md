@@ -1,6 +1,6 @@
 ## Download dos dados coletados para o artigo
 
-[Arquivos de Churn](churn.xls)
+[Arquivos de Churn](churn.xlsx)
 
 You can use the [editor on GitHub](https://github.com/markaumvb/artigo_casuais/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
